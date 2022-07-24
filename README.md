@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wildwest87
 - 👀 I’m interested in ...writing games
-- 🌱 I’m currently learning ...h5 cs
+- 🌱 I’m currently learning ...html,css
 - 💞️ I’m looking to collaborate on ...not sure
 - 📫 How to reach me ...Scorpiowest68@gmail.com 
 
